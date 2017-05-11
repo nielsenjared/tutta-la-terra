@@ -2,10 +2,10 @@
 
 Mobile-friendly, interactive map created using:
 
-    Library of Congress Digital Collection 'Pictorial St. Louis' (https://www.loc.gov/resource/g3200.mf000070/)
-    Leaflet (http://leafletjs.com/)
-    leaflet-rastercoords (https://commenthol.github.io/leaflet-rastercoords/)
-    gdal2tiles-leaflet (https://github.com/commenthol/gdal2tiles-leaflet)
+Library of Congress Digital Collection 'Pictorial St. Louis' (https://www.loc.gov/resource/g3200.mf000070/)
+Leaflet (http://leafletjs.com/)
+leaflet-rastercoords (https://commenthol.github.io/leaflet-rastercoords/)
+gdal2tiles-leaflet (https://github.com/commenthol/gdal2tiles-leaflet)
 
 ## Check It Out
 
@@ -24,7 +24,7 @@ Download the .tif file for this beast: https://www.loc.gov/resource/g3200.mf0000
 
 And copy or move it to this repo directory.
 
-We need `gdal2tiles.py` to make tiles. Clone (or download) into the current directory:
+You need `gdal2tiles.py` to make tiles. Clone (or download) into the current directory:
 
 `git clone https://github.com/commenthol/gdal2tiles-leaflet.git`
 

@@ -2,10 +2,10 @@
 
 Mobile-friendly, interactive map created using:
 
-Library of Congress Digital Collection 'Pictorial St. Louis' (https://www.loc.gov/resource/g3200.mf000070/)
-Leaflet (http://leafletjs.com/)
-leaflet-rastercoords (https://commenthol.github.io/leaflet-rastercoords/)
-gdal2tiles-leaflet (https://github.com/commenthol/gdal2tiles-leaflet)
+* Library of Congress Digital Collection (https://www.loc.gov/resource/g3200.mf000070/)
+* Leaflet (http://leafletjs.com/)
+* leaflet-rastercoords (https://commenthol.github.io/leaflet-rastercoords/)
+* gdal2tiles-leaflet (https://github.com/commenthol/gdal2tiles-leaflet)
 
 ## Check It Out
 

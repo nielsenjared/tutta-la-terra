@@ -9,7 +9,7 @@ Mobile-friendly, interactive map created using:
 
 ## Check It Out
 
-http://jarednielsen.com/tutta-la-terra/map.html
+http://jarednielsen.com/tutta-la-terra/
 
 Follow the Geography and Map Division of the Library of Congress on Twitter: https://twitter.com/LOCMaps
 

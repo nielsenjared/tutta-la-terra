@@ -37,3 +37,7 @@ And run:
 `python gdal2tiles.py -l -p raster -z 0-6 -w none ./mf000070.tif ./tiles`
 
 Voila! Open `map.html` in your browser.
+
+```
+python3 -m http.server
+```
